@@ -1,10 +1,11 @@
-# Hi, I'm Md. Tanjil Islam Shuvo 👋
+# konnichiwa, I'm Md. Tanjil Islam Shuvo 
 
-### About Me
-I’m a first-year Computer Science student with a keen interest in PHP development, debugging, and problem-solving. Though I’m new to programming, I am eager to learn, experiment, and grow by building real-world projects and tackling coding challenges.
-My journey in technology began with curiosity and a desire to understand how things work. I am passionate about analyzing problems, finding efficient solutions, and writing clean, maintainable code. Currently, I am exploring PHP, web development fundamentals, and data-driven problem solving, while developing the skills needed to become a proficient backend developer.
+### Who Am I?
+I’m a first-year Computer Science student with a keen interest in data analysis, PHP development, and problem-solving. While I’m still learning programming and backend development, I actively build projects to practice debugging, data cleaning, visualization, and analytical thinking.
 
-I believe in learning by doing, and I’m committed to continuously improving my coding, analytical thinking, and debugging abilities through hands-on projects and collaborative work.
+I’m passionate about startups, digital products, and real-world problem solving, and I believe the best way to learn software engineering is by building, experimenting, and continuously improving. I enjoy breaking down complex problems, analyzing them from multiple angles, and designing efficient, maintainable, and scalable solutions.
+
+My journey in technology began with curiosity and a desire to understand how systems work. Every project I take on is an opportunity to learn, improve, and strengthen my technical and analytical skills, while enhancing my collaboration and problem-solving abilities. I aim to grow into a proficient developer who can contribute to impactful digital products and innovative solutions.
 
 ---
 
