@@ -1,67 +1,176 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Portfolio</title>
-</head>
-<body>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <!-- Header Section -->
-  <header>
-    <h1>Md. Tanjil Islam Shuvo</h1>
-    <p>Web Designer | Graphic Designer</p>
+  <title>Md. Tanjil Islam Shuvo | Portfolio</title>
+
+  <meta
+    name="description"
+    content="Computer Science student portfolio focused on data analysis, backend development, and problem-solving."
+  />
+
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet"
+  />
+
+  <!-- Font Awesome Icons -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  />
+</head>
+
+<body id="top">
+
+  <!-- Hero -->
+  <header class="hero">
+      <div class="container hero-inner">
+
+        <div class="hero-text">
+          <h1>Konnichiwa, I'm Md. Tanjil Islam Shuvo</h1>
+          <p class="hero-subtitle">
+            First-year Computer Science student focused on data analysis, PHP, SQL,
+            and real-world problem solving.
+          </p>
+
+          <div class="hero-actions">
+            <a href="#skills" class="button primary">View Skills</a>
+            <a href="#contact" class="button ghost">Contact</a>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="avatar-placeholder">
+            <img src="profile.jpg" alt="Md. Tanjil Islam Shuvo" />
+          </div>
+          <h2 class="hero-card-name">Md. Tanjil Islam Shuvo</h2>
+          <p class="hero-role">CS Student · Data &amp; Backend Enthusiast</p>
+          <div class="hero-card-meta">Python · PHP · SQL</div>
+
+          <div class="icon-row">
+            <i class="fa-brands fa-python" title="Python"></i>
+            <i class="fa-brands fa-php" title="PHP"></i>
+            <i class="fa-solid fa-database" title="SQL"></i>
+          </div>
+        </div>
+
+    </div>
   </header>
 
-  <hr>
+  <main>
 
-  <!-- About Section -->
-  <section>
-    <h2>About Me</h2>
-    <p>
-      I am a passionate designer who creates modern and user-friendly websites.
-      I love turning ideas into beautiful digital experiences.
-    </p>
-  </section>
+    <!-- About -->
+    <section id="about" class="section">
+      <div class="container">
+        <header class="section-header">
+          <h2>About Me</h2>
+        </header>
 
-  <hr>
+        <p>
+          I’m a first-year <strong>Computer Science student</strong> with a growing
+          interest in <strong>data analysis, PHP, and problem-solving</strong>.
+          As I continue learning programming and backend fundamentals, I actively
+          work on small projects to practice <strong>debugging, data cleaning,
+          visualization, and analytical thinking</strong>.
+        </p>
 
-  <!-- Skills Section -->
-  <section>
-    <h2>Skills</h2>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript (Basic)</li>
-      <li>Graphic Design</li>
-    </ul>
-  </section>
+        <p>
+          I’m passionate about <strong>startups, digital products, and real-world
+          problem solving</strong>. I believe the most effective way to learn
+          software engineering is through <strong>building, experimenting, and
+          continuous improvement</strong>. I enjoy breaking down complex problems,
+          analyzing them logically, and designing solutions that are
+          <strong>efficient, maintainable, and scalable</strong>.
+        </p>
 
-  <hr>
+        <p>
+          My journey in technology began with curiosity and a desire to understand
+          how systems work. Every project I take on is an opportunity to
+          <strong>learn, refine my skills, and grow both technically and
+          analytically</strong>, while strengthening collaboration and
+          problem-solving abilities. My goal is to gradually develop into a
+          professional who can contribute to <strong>impactful digital products
+          and data-driven solutions</strong>.
+        </p>
+      </div>
+    </section>
 
-  <!-- Projects Section -->
-  <section>
-    <h2>Projects</h2>
-    <p>Portfolio Website</p>
-    <p>To-Do List Web App</p>
-    <p>Business Landing Page</p>
-  </section>
+    <!-- Skills -->
+    <section id="skills" class="section">
+      <div class="container">
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
 
-  <hr>
+        <ul class="about-list">
+          <li><span>Programming & Analysis:</span> Python, PHP, SQL</li>
+          <li><span>Data & Analytics:</span> Data cleaning, visualization, basic statistical analysis</li>
+          <li><span>Problem-Solving & Debugging:</span> Identifying and resolving data and code issues</li>
+          <li><span>Soft Skills:</span> Communication, teamwork, adaptability, analytical thinking</li>
+        </ul>
+      </div>
+    </section>
 
-  <!-- Contact Section -->
-  <section>
-    <h2>Contact</h2>
-    <p>Email: your@email.com</p>
-    <p>Phone: +880XXXXXXXXX</p>
-  </section>
+    <!-- Education -->
+    <section id="education" class="section">
+      <div class="container">
+        <header class="section-header">
+          <h2>Education</h2>
+        </header>
 
-  <hr>
+        <p><strong>Independent University Bangladesh</strong></p>
+        <p>B.Sc. in Computer Science and Engineering (CSE) · 2025–Present</p>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="section">
+      <div class="container">
+        <header class="section-header">
+          <h2>Contact Me</h2>
+        </header>
+
+        <ul class="contact-list">
+          <li>Email: <a href="mailto:tanjilislmsuvo@gmail.com">tanjilislmsuvo@gmail.com</a></li>
+          <li>LinkedIn: <a href="https://www.linkedin.com/in/tanjilislmsuvo/" target="_blank">linkedin.com/in/tanjilislmsuvo</a></li>
+          <li>GitHub: <a href="https://github.com/tanjilislmsuvo" target="_blank">github.com/tanjilislmsuvo</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Fun Fact -->
+    <section id="fun-fact" class="section">
+      <div class="container">
+        <header class="section-header">
+          <h2>Fun Fact</h2>
+        </header>
+        <p>
+          Curiosity drives me. I enjoy exploring problems until I understand how
+          and why things work.
+        </p>
+      </div>
+    </section>
+
+  </main>
 
   <!-- Footer -->
-  <footer>
-    <p>© 2025 Md. Tanjil Islam Shuvo</p>
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; <span id="year"></span> Md. Tanjil Islam Shuvo</p>
+    </div>
   </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
 
 </body>
 </html>
