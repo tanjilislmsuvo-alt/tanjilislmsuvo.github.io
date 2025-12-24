@@ -48,9 +48,9 @@ I believe in **learning by doing** and continuously improving my **coding, analy
 
 ### 📞 Contact Me
 
-[![Gmail]() 
-[![LinkedIn]() 
-[![GitHub]()  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjilislmsuvo@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanjilislmsuvo/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanjilislmsuvo)  
 
 - **Phone:** 01340455600  
 - **Address:** North Badda, Dhaka 1212  
@@ -72,8 +72,8 @@ Here are some areas I’m exploring and building projects in:
 
 ### 📊 GitHub Stats
 
-![Tanjil's GitHub Stats]()  
-![Top Languages]()
+![Tanjil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanjilislmsuvo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilislmsuvo&layout=compact&theme=radical)
 
 ---
 
@@ -81,4 +81,5 @@ Here are some areas I’m exploring and building projects in:
 
 I love turning challenges into opportunities to **learn, grow, and improve my coding skills**.  
 I’m passionate about **backend development, debugging, and building efficient web applications**.
+
 
