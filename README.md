@@ -9,7 +9,7 @@ My journey in technology began with curiosity and a desire to understand how sys
 
 ---
 
-### 🛠 Skills
+###  Skills
 
 Programming & Analysis: Python, PHP, SQL
 Data & Analytics: Data cleaning, visualization, statistical analysis
@@ -18,19 +18,19 @@ Soft Skills: Communication, teamwork, adaptability, analytical thinking
 
 ---
 
-### 📚 Education
+###  Education
 
 **Independent University Bangladesh** | B.Sc. in Computer Science and Engineering (CSE) | 2025–2026 (Enrolled)  
 ---
 
-### 🌐 Contact Me
+###  Contact Me
 
 - **Email:** [tanjilislmsuvo@gmail.com](mailto:tanjilislmsuvo@gmail.com)  
 - **LinkedIn:** [Md. Tanjil Islam Shuvo](https://www.linkedin.com/in/tanjilislmsuvo/)  
 - **GitHub:** [tanjilislmsuvo](https://github.com/tanjilislmsuvo)  
 ---
 
-### 🚀 Projects & Learning
+###  Projects & Learning
 
 - Building **PHP backend applications**  
 - Practicing **debugging and problem-solving**  
@@ -39,7 +39,7 @@ Soft Skills: Communication, teamwork, adaptability, analytical thinking
 
 ---
 
-### ⚡ Fun Fact
+###  Fun Fact
 
 Curious by nature, I’m always experimenting to learn something new.  
 
